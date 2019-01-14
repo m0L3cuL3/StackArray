@@ -1,7 +1,7 @@
 /*
 
-	Name: Sean Myko C. Baang
-	Section: CC12 - CCB
+	Name: 
+	Section: 
 	Date: 1/11/2019
 
 */
